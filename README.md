@@ -14,21 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-          ### Web Design
-            If your idea is to have a well stylished and animated website, I am
-            the person for you. I have experience with landingpages, apps, fun
-            interations and animations that will skyrocket your business to
-            reach the levels you expect it to get.
+### Web Design
+If your idea is to have a well stylished and animated website, I am the person for you. I have experience with landingpages, apps, fun interations and animations that will skyrocket your business to reach the levels you expect it to get.
 
-          ### Front-end
-            I know well enough to create that project you have in mind. My stack
-            takes over front-end technologies the include: HTML, CSS styling and
-            animation, SVG, Canvas, Javascript, DOM interaction, React for
-            incredible apps, jQuery for legacy code, SASS, Redux, Bootstrap,
-            among others I can always look forward to learning and use!
+### Front-end
+I know well enough to create that project you have in mind. My stack takes over front-end technologies the include: HTML, CSS styling and animation, SVG, Canvas, Javascript, DOM interaction, React for incredible apps, jQuery for legacy code, SASS, Redux, Bootstrap, among others I can always look forward to learning and use!
 
-          ### Back-end
-            At the same time, if you require someone who can help you with
-            handling a server-side project, API requests, data management and
-            more, I am here at your service. Things I like to use for these:
-            Node JS, Express JS, SQLite and MongoDB.
+### Back-end
+At the same time, if you require someone who can help you with handling a server-side project, API requests, data management and more, I am here at your service. Things I like to use for these: Node JS, Express JS, SQLite and MongoDB.

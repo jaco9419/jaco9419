@@ -24,4 +24,4 @@ My first resources were mainly free online courses, which were more than enough 
 
 <p align="center"><strong>So, what are you waiting for, let's get in touch! :mailbox:</strong></p>
 
-<p align_"center"><img src="https://res.cloudinary.com/divgu8i6t/image/upload/v1564455119/Foto_R%C3%ADo_de_la_Plata.jpg" alt="A picture of me on a boat in river Plate, Buenos Aires" width="280"></p>
+<p align="center"><img src="https://res.cloudinary.com/divgu8i6t/image/upload/v1564455119/Foto_R%C3%ADo_de_la_Plata.jpg" alt="A picture of me on a boat in river Plate, Buenos Aires" width="280"></p>

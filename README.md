@@ -22,6 +22,6 @@ It's been several years now since I started learning to code. I first fell in lo
 
 My first resources were mainly free online courses, which were more than enough to gain inspiration, start Computer Science in college and become the person I am today and I want to be in the future.-->
 
-<center>### So, what are you waiting for, let's get in touch! :mailbox:</center>
+<center><strong>So, what are you waiting for, let's get in touch! :mailbox:</strong></center>
 
-<div style="text-align:center"><img src="https://res.cloudinary.com/divgu8i6t/image/upload/v1564455119/Foto_R%C3%ADo_de_la_Plata.jpg" alt="A picture of me on a boat in river Plate, Buenos Aires" width="280"/></div>
+<center><img src="https://res.cloudinary.com/divgu8i6t/image/upload/v1564455119/Foto_R%C3%ADo_de_la_Plata.jpg" alt="A picture of me on a boat in river Plate, Buenos Aires" width="280"/><center>

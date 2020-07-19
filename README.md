@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="jorge-1.jpg" alt="A picture of me on a boat in river Plate, Buenos Aires" width="200" style={text-align: center}/>
+<img src="jorge-1.jpg" alt="A picture of me on a boat in river Plate, Buenos Aires" width="200" style="text-align:center"/>
 ## What I do
 
 ### Web Design

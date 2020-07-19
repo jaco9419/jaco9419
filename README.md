@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="jorge-1.jpg" alt="A picture of me on a boat in river Plate, Buenos Aires" width="300"/>
+<img src="https://res.cloudinary.com/divgu8i6t/image/upload/v1564455119/Foto_R%C3%ADo_de_la_Plata.jpg" alt="A picture of me on a boat in river Plate, Buenos Aires" width="300"/>
 
 ## What I do
 

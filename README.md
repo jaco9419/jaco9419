@@ -1,4 +1,4 @@
-### Oh, I hadn't noticed you. Don't be shy, have a look around 👋
+### Welcome, I'm Jorge 👋
 
 <!--
 **jaco9419/jaco9419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

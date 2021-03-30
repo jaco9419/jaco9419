@@ -13,7 +13,7 @@ If your idea is to have a well stylished and animated website, I am the person f
 I know well enough to create that project you have in mind. My stack takes over front-end technologies the include: HTML, CSS styling and animation, SVG, Canvas, Javascript, DOM interaction, React for incredible apps, jQuery for legacy code, SASS, Redux, Bootstrap, among others I can always look forward to learning and use!
 
   ### Back-end :bar_chart:
-At the same time, if you require someone who can help you with handling a server-side project, API requests, data management and more, I am here at your service. Things I like to use for these: Node JS, Express JS, SQLite and MongoDB.
+At the same time, if you require someone who can help you with handling a server-side project, API requests, data management and more, I am here at your service. Things I like to use for these: Node JS, Express JS, SQLite and MongoDB. Lately, I've been working with Heroku, Firebase and C++ for native hosts.
 
 <!--## About Me
 
